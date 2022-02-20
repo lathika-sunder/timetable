@@ -92,4 +92,4 @@ ECA051-AD - Mentoring
 
 # OUPUT
 
-![output](./Time table output.png)
+![output](./Time_table_output.png)
