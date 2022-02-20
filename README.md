@@ -16,7 +16,8 @@ Execute the program
 
 # CODE
 
-'''<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <title>TIME TABLE</title>
@@ -86,7 +87,8 @@ Execute the program
 ECA051-AD - Mentoring
 </ul>
 </body>
-</html>'''
+</html>
+```
 
 # OUPUT
 
